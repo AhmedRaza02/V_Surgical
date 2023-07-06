@@ -1,0 +1,54 @@
+.header {
+    margin: 2%;
+}
+
+.header h1 {
+    text-align: center;
+    
+}
+.header p {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.category-1 img {
+    margin-left: 50%;
+    margin-top: 20%;
+    height: 45%;
+    width: 45%;
+
+}
+.category-1 h5 {  
+    margin-top: 2%;
+}
+.category-1 p {  
+    margin-top: 2%;
+}
+
+.category-2 img {
+    margin-left: 50%;
+    margin-top: 20%;
+    height: 45%;
+    width: 45%;
+
+}
+.category-2 h5 {  
+    margin-top: 2%;
+}
+.category-2 p {  
+    margin-top: 2%;
+}
+.category-3 img {
+    margin-left: 50%;
+    margin-top: 20%;
+    height: 45%;
+    width: 45%;
+
+}
+.category-3 h5 {  
+    margin-top: 2%;
+}
+.category-3 p {  
+    margin-top: 2%;
+}
